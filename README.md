@@ -1,2 +1,3 @@
-# esg-cdfi-impact
-Quantify whether places with higher CDFI activity are more resilient during market downturns and whether ESG funds capture that resilience.
+# cpi-impact
+Impact of Inflation & Interest Rate Changes on Spending & Investing in Low-Income Areas
+
